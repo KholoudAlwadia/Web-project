@@ -1,2 +1,2 @@
 # Web-project
-web Frontend project 
+Front-end web project using HTML, CSS, and JavaScript.
